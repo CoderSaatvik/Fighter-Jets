@@ -35,7 +35,7 @@ class Form {
     this.title1.html("WELCOME TO THE GAME'S WORLD");
     this.title1.position(displayWidth/2 - 320, 560);
     this.title2.html("KINDLY ENTER YOUR NAME TO PLAY!");
-    this.title2.position(displayWidth/2-350, 290);
+    this.title2.position(displayWidth/2-350, 360);
 
     this.input.position(displayWidth/2 - 140 , displayHeight/2 - 140);
     this.button.position(displayWidth/2 -80, displayHeight/2-100);
